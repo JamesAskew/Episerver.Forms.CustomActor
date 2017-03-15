@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<languages>
+  <language name="English" id="en">
+    <episerver>
+      <forms>
+        <submissionactors>
+          <SungardAS.com.Business.Actors.ConversionTrackingActor>
+            <displayname>Send Data to Custom WebHook</displayname>
+          </SungardAS.com.Business.Actors.ConversionTrackingActor>
+        </submissionactors>
+      </forms>
+    </episerver>
+  </language>
+</languages>
